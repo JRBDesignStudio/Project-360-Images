@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
-    <title>360 Viewer – Abitta Room 310</title>
+    <meta charset="utf-8">
+    <title>Abitta Room 310</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
     <style>body { margin: 0; }</style>
   </head>
   <body>
