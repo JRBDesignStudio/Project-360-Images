@@ -1,6 +1,8 @@
 <iframe 
-  src="https://jrbdesignstudio.github.io/Project-360-Images/Abitta-Room-310-Interior.html" 
-  width="100%" 
-  height="600" 
-  style="border: none;">
+  src="https://jrbdesignstudio.github.io/Project-360-Images/Abitta-Room-310-Interior.html"
+  width="100%"
+  height="600"
+  style="border: none;"
+  allowfullscreen
+  loading="lazy">
 </iframe>
